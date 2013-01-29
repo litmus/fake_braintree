@@ -1,7 +1,9 @@
 # fake\_braintree, a Braintree fake 
 
-This version has been edited by me to support using Poltergeist. See
-https://github.com/davidsmalley/fake_braintree/commit/d39d967e5749d7702329cfe4029e78ffe22a9a85
+This version has been edited by @davidsmalley to support using Poltergeist and also includes commits from wonnage's branch to provide better support for cards via Transparent Redirect.
+
+My change to support Poltergeist: d39d967e5749d7702329cfe4029e78ffe22a9a85
+Wonnage's branch: wonnage/fake_braintree@63df7f60826c9117843b2da22ea5932ed856ed99
 
 This library is a way to test [Braintree](http://www.braintreepayments.com/)
 code without hitting Braintree's servers. It uses
