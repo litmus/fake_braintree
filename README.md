@@ -1,5 +1,7 @@
-# fake\_braintree, a Braintree fake [![Build Status](https://secure.travis-ci.org/thoughtbot/fake_braintree.png)](http://travis-ci.org/thoughtbot/fake_braintree)
+# fake\_braintree, a Braintree fake 
 
+This version has been edited by me to support using Poltergeist. See
+d39d967e5749d7702329cfe4029e78ffe22a9a85
 
 This library is a way to test [Braintree](http://www.braintreepayments.com/)
 code without hitting Braintree's servers. It uses
